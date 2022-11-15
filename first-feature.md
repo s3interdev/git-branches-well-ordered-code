@@ -21,3 +21,9 @@ Animi, id est laborum et dolorum fuga. Accusantium doloremque laudantium, totam 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa. Totam rem aperiam. Eaque ipsa quae ab illo inventore veritatis et quasi. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Corrupti quos dolores et quas molestias excepturi sint occaecati.
 
 Nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam. Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+
+## Star Wars
+
+Escape is not his plan. I must face him, alone. Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is. I don't know what you're talking about. I am a member of the Imperial Senate on a diplomatic mission to Alderaan--
+
+Partially, but it also obeys your commands. What good is a reward if you ain't around to use it? Besides, attacking that battle station ain't my idea of courage. It's more like…suicide. The more you tighten your grip, Tarkin, the more star systems will slip through your fingers.
